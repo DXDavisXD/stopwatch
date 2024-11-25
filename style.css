@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+    margin: 0;
+}
+#stopwatch{
+    text-align: center;
+    margin-inline: 60px;
+    border-radius: 10px;
+    margin-top: 16%;
+    background-color: hsl(0, 0%, 100%);
+    padding-bottom: 10px;
+    border: 5px solid;
+    border-color: hsla(0, 0%, 47%, 0.514);
+    max-width: 500px;
+    margin-left: 36.7%;
+}
+#clock{
+    font-size: 5em;
+    font-family: 'Calisto MT';
+    font-weight: bold;
+}
+button{
+    font-size: 2em;
+    background-color: rgb(217, 255, 4);
+    border-radius: 15px;
+    border-color: rgb(255, 72, 0);
+    border-width: 3px;
+    font-family: 'Calibri';
+    font-weight: bold;
+    color: rgba(3, 27, 248, 0.596);
+}
+#saved{
+    text-align: center;
+    margin-inline: 60px;
+    border-radius: 10px;
+    margin-top: 2%;
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Calibri';
+    font-size: 2.5em;
+    border: 5px  solid;
+    border-color: hsla(53, 3%, 53%, 0.644);
+    max-width: 500px;
+    margin-left: 36.7%;
+}
