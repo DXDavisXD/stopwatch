@@ -28,6 +28,7 @@ button{
     font-family: 'Calibri';
     font-weight: bold;
     color: rgba(3, 27, 248, 0.596);
+    cursor: pointer;
 }
 #saved{
     text-align: center;
